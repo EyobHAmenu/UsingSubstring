@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="477be7ae-6ac3-4ca5-96d0-d543b1b05beb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/ComparingStrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComparingStrings/src/CompStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/DictionaryWord.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DictionaryWord/src/bubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/FixError.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FixError/src/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingandStoring/GettingandStoring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GettingandStoring/src/getStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/InputOutput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputOutput/src/Ask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/ReplaceCommonWord.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReplaceCommonWord/src/replaceWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringAssignment/StringAssignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringAssignment/src/StrAssi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/TeastScores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeastScores/src/testScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UsingSubstring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/UsingSubstring/SubString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Complet_If" beforeDir="false" afterPath="$PROJECT_DIR$/../Complet_If" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CreatApp" beforeDir="false" afterPath="$PROJECT_DIR$/../CreatApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DebugArray/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DebugArray/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessGame/out/production/GuessGame/guessGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessGame/out/production/GuessGame/guessGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessGame/src/guessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GuessGame/src/guessGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Positive_Negative" beforeDir="false" afterPath="$PROJECT_DIR$/../Positive_Negative" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myfirstjava" beforeDir="false" afterPath="$PROJECT_DIR$/../myfirstjava" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1arQSS9047v6eswLCAU0EG9IXSf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubString" />
+      <module name="UsingSubstring" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SubString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="477be7ae-6ac3-4ca5-96d0-d543b1b05beb" name="Default Changelist" comment="" />
+      <created>1587491231224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587491231224</updated>
+      <workItem from="1587491232639" duration="1260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
