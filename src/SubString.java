@@ -16,11 +16,15 @@ public class SubString {
         length = word.length();
         System.out.print("Enter a number as index between 0 and " + (length - 1) + " : ");
         index = sc.nextInt();
-        sc.nextLine();
-        cut = word.substring(0,index);
 
-        System.out.println("The length of alphabet is: " + length);
-        System.out.println("The substring from 0 to " + index +" is: " + cut);
+        if(index <= (length -1)) {
+            sc.nextLine();
+            cut = word.substring(0, index);
+
+            System.out.println("The length of alphabet is: " + length);
+            System.out.println("The substring from 0 to " + index + " is: " + cut);
+        }
+        System.out.println("The index value is out of the range please try again.");
 
 
     }
